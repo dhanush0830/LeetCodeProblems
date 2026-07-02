@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
+| [1672-richest-customer-wealth](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0212-word-search-ii](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0733-flood-fill](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [1672-richest-customer-wealth](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 ## Linked List
 |  |
 | ------- |
