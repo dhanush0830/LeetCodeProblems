@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0443-string-compression) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
