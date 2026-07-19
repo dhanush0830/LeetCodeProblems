@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
