@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
 ## String
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1657-determine-if-two-strings-are-close](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [1657-determine-if-two-strings-are-close](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
 ## Quickselect
 |  |
 | ------- |
