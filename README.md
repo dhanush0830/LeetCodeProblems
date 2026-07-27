@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [0649-dota2-senate](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0649-dota2-senate) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0649-dota2-senate](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0649-dota2-senate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0933-number-of-recent-calls) |
 ## Math
 |  |
