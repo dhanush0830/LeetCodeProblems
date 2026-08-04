@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/2352-equal-row-and-column-pairs) |
+| [3731-find-missing-elements](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/2352-equal-row-and-column-pairs) |
+| [3731-find-missing-elements](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
+| [3731-find-missing-elements](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
