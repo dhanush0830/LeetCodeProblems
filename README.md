@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
+| [1140-stone-game-ii](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [1140-stone-game-ii](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
+| [1140-stone-game-ii](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1140-stone-game-ii](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Monotonic Stack
 |  |
@@ -411,4 +415,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
