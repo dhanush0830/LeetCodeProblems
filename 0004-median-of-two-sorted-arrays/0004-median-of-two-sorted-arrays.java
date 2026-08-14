@@ -8,16 +8,30 @@ class Solution {
         int n = n1 + n2;
 
         int[] merge = new int[n];
+        int i=0,j=0,k=0;
 
-        for (int i = 0; i < n1; i++) {
-            merge[i] = nums1[i];
-        }
+        while (i < n1 && j < n2) {
+    if (nums1[i] <= nums2[j]) {
+        merge[k] = nums1[i];
+        i++;
+    } else {
+        merge[k] = nums2[j];
+        j++;
+    }
+    k++;
+}
 
-        for (int i = 0; i < n2; i++) {
-            merge[n1 + i] = nums2[i];
-        }
+while (i < n1) {
+    merge[k] = nums1[i];
+    i++;
+    k++;
+}
 
-        Arrays.sort(merge);
+while (j < n2) {
+    merge[k] = nums2[j];
+    j++;
+    k++;
+}
 
         if (n % 2 == 0) {
             int x1 = n / 2 - 1;
