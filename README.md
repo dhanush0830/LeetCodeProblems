@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/2352-equal-row-and-column-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -441,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/dhanush0830/75DaysLeetCodeChallenge/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
